@@ -1,5 +1,5 @@
 image:
-  repository: your-dockerhub-user/nodejs-app
+  repository: anandkumarmk6479/dyn-nodejs:v1
   tag: latest
   pullPolicy: IfNotPresent
 
